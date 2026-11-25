@@ -74,6 +74,7 @@
 - [Coinbase Commerce](https://commerce.coinbase.com/) – API for accepting cryptocurrency payments.
 - [Ramp API](https://docs.ramp.com/) – Corporate spend management API for finance automation.
 - [Eulerpool](https://eulerpool.com/developers) – Financial data API for global stocks, ETFs, fundamentals, macro series, crypto and FX.
+- [FlowFeed](https://flowfeed.cc) – Real-time macro, forex and crypto news, economic calendar and central bank releases for AI agents via a hosted MCP API (paid).
 
 ## Communication & Messaging APIs
 
